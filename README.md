@@ -22,3 +22,9 @@
   <img src="images/reasonbycostpaid.png" height = 250, width = 400>
   <p>As can be seen the invoice paid to not paid appears to be balanced for most visit reasons, however programs increasing accessibilty or decreasing cost of UTI and Pnuemonia care may be neccessary in the regions covered by this data.</p>
 </div>
+
+## Visit Reasons by Invoice Item
+<div>
+  <img src="images/reasonbyinvoiceitem.png" height = 250, width = 400>
+  <p>As can be seen above the invoice items to reason generally match, however the annual wellness check having such a high amount of things other than office visits being on the invoice serves as a representative example as to why the annual wellness check is important, due to these invoice items signifying that the wellness visit is causing actual health disoveries requiring money to be spent on services other than just the standard office visit.</p>
+</div>
